@@ -61,6 +61,5 @@ python bot.py
 
 ## • Donate
 
-SOL Address : viloid.sol
 
 BSC Address : 0xd3de361b186cc2Fc0C77764E30103F104a6d6D07
